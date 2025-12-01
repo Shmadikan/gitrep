@@ -5,5 +5,5 @@ int main(){
     string name;
     cout << "Name:";
     cin >> name;
-    cout << "Hello world mr "<< name <<'\n';
+    cout << "Hello world"<< "mr"+name <<'\n';
 }

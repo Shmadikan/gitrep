@@ -2,7 +2,7 @@
 using namespace std;
 
 
-// Comments
+
 int main(){
     cout << 1+1;
     // again comments
